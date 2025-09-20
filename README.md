@@ -26,7 +26,7 @@ pip install bs4 jinja2
 
 3. Скачайте скрипт:
 ```bash
-git clone https://github.com/yourusername/telegram-chat-analyzer.git
+git clone https://github.com/ArtemRum/telegram-chat-analyzer.git
 cd telegram-chat-analyzer
 ```
 
