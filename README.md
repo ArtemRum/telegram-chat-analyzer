@@ -1,9 +1,5 @@
 # Telegram Chat Exporter Analyzer 🔍
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
-[![Telegram](https://img.shields.io/badge/Telegram-Export%20Analyzer-2CA5E0)](https://telegram.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
 Профессиональный инструмент для анализа экспортированных чатов из Telegram. Преобразуйте ваши JSON и HTML экспорты в структурированные данные и детальные отчеты.
 
 ## ✨ Возможности
